@@ -55,10 +55,4 @@
 
 <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=SomaTakata&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
   <br/><br/><br/>
-<div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SomaTakata/SomaTakata/output/github-contribution-grid-snake.svg" />
-  
 
-</div>
