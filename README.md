@@ -9,20 +9,17 @@
 <h3 align="center">A passionate FullStack Developer from Japan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_web_design?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
+ <br/> <br/>
 
 - 🎓 I'm majoring in **CS** in **[SHIBAURA univercity](https://www.shibaura-it.ac.jp/en/)**
 
 - 🚀 I worked at **[Recruit](https://www.recruit.co.jp/)**
 
-- 📫 How to reach me **ts13.trade@gmail.com**
-
 - 🌱 I’m currently learning **Golang**
   
 - 💬 Ask me about **React**
 
-
+<p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_web_design?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
 <h3 align="left">Connect with me:</h3>
 
  <br/><br/><br/>
