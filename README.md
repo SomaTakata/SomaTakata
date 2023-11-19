@@ -20,7 +20,7 @@
 - 💬 Ask me about **React**
 
 <p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_web_design?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
-<h3 align="left">Connect with me:</h3>
+
 
  <br/><br/><br/>
 
