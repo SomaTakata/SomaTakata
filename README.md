@@ -10,13 +10,13 @@
 
  <br/> <br/>
 
-- 🎓 I'm majoring in **CS** in **[SHIBAURA univercity](https://www.shibaura-it.ac.jp/en/)**
+- 🎓  **[SHIBAURA univercity](https://www.shibaura-it.ac.jp/en/)**でコンピュータサイエンスを学んでいます。
 
-- 🚀 I worked at **[Recruit](https://www.recruit.co.jp/)**
+- 🚀 **[Recruit](https://www.recruit.co.jp/)**でアルバイトをしています。
 
-- 🌱 I’m currently learning **Golang**
+- 🌱  **Golang**を現在学習中です。
   
-- 💬 Ask me about **React**
+- 💬 **React**を主に使っています。
 
 <p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_web_design?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
 
