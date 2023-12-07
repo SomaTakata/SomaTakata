@@ -10,7 +10,7 @@
 
  <br/> <br/>
 
-- 🎓  **[SHIBAURA univercity](https://www.shibaura-it.ac.jp/en/)**でコンピュータサイエンスを学んでいます。
+- 🎓  **[芝浦工業大学](https://www.shibaura-it.ac.jp/en/)**でコンピュータサイエンスを学んでいます。
 
 - 🚀 **[Recruit](https://www.recruit.co.jp/)**でアルバイトをしています。
 
