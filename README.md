@@ -5,14 +5,12 @@
 
 </h1>
 
-<h3 align="center">A passionate FullStack Developer from Japan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<h3 align="center" justify="center">A passionate FullStack Developer from Japan</h3>
  <br/> <br/>
 
-- 🎓  **[芝浦工業大学](https://www.shibaura-it.ac.jp/en/)**でコンピュータサイエンスを学んでいます。
+- 🎓  [**芝浦工業大学**](https://www.shibaura-it.ac.jp/en/) でコンピュータサイエンスを学んでいます。
 
-- 🚀 **[Recruit](https://www.recruit.co.jp/)**でアルバイトをしています。
+- 🚀 [**Recruit**](https://www.recruit.co.jp/)**でアルバイトをしています。
 
 - 🌱  **Golang**を現在学習中です。
   
@@ -27,7 +25,7 @@
     <h1 >⚒️Languages-Frameworks-Tools ⚒️</h1>
  <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,prisma">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,prisma,go">
 <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,firebase,linux,git,github,vscode,vite,c,java">
 <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr">
 
@@ -44,7 +42,7 @@
  <p align="">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SomaTakata&theme=tokyonight" />
    
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=SomaTakata&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=SomaTakata&show_icons=true&theme=tokyonight&hide_border=true" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaTakata&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 </div>
