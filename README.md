@@ -16,7 +16,7 @@
   
 - 💬 **React**を主に使っています。
 
-<p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_web_design?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
+<p align="left"> <a href="https://twitter.com/soma_web_design" target="blank"><img src="https://img.shields.io/twitter/follow/soma_takata?logo=twitter&style=for-the-badge" alt="soma_web_design"  </p>
 
 
  <br/><br/><br/>
