@@ -8,12 +8,6 @@
 <h3 align="center" justify="center">A passionate FullStack Developer from Japan</h3>
  <br/> <br/>
 
-- 🎓  [**芝浦工業大学**](https://www.shibaura-it.ac.jp/en/) でコンピュータサイエンスを学んでいます。
-
-- 🌱  **Golang**を現在学習中です。
-  
-- 💬 **React**を主に使っています。
-
 <p align="left"> <a href="https://twitter.com/soma_takata" target="blank"><img src="https://img.shields.io/twitter/follow/soma_takata?logo=twitter&style=for-the-badge" alt="soma_takata"  </p>
 
 
